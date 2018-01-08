@@ -3,5 +3,5 @@ Flask-based web app with simple HTML and CSS styling to view a list of restauran
 
 ## Usage
 - Run `lotsofmenu.py` to generate the restaurants and menus to the database.
-- Run 'finalproject.py' 
+- Run `finalproject.py`
 - Open browser and go to ***http://localhost:5000/restaurants***
